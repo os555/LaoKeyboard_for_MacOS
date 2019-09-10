@@ -1,2 +1,10 @@
 # LaoKeyboard_for_MacOS
 Custom LaoKeyboard for MacOS by LoungOS
+This package contian two files
+Lao.icns
+Lao.keylayout
+
+Add files to 
+Go > Computer > Macintosh HD > Library > Keyboard Layouts
+
+
